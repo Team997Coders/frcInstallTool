@@ -175,9 +175,9 @@ def main():
                             subprocess.check_call(["git", "--version", ">NUL"])
                         elif os.name == "posix":
                             subprocess.check_call(["git", "--version", ">/dev/null"])
+                        print("Could not clone git repository {}!".format(friendlyName))
                     except subprocess.CalledProcessError:
                         print("Could not find git! Is it on your PATH?")
-                    print("Could not clone git repository {}!".format(friendlyName))
 
             elif type == "pip":
                 print("Downloading pip package {}...".format(friendlyName))
@@ -195,9 +195,9 @@ def main():
                             subprocess.check_call(
                                 [sys.executable, "-m", "pip", "--version", ">/dev/null"]
                             )
+                        print("Could not download pip package {}!".format(friendlyName))
                     except subprocess.CalledProcessError:
                         print("Could not find pip! Is it on your PATH?")
-                    print("Could not download pip package {}!".format(friendlyName))
 
     print("\nFinished!\n-", present, "OK\n-", invalid, "invalid")
 
