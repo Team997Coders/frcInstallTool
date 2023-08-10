@@ -1,0 +1,18 @@
+#,,,,, Last updated August 10 2023
+#friendlyName,filename,id,md5,type,subfolder
+SparkMax-Documentation, ,https://github.com/REVrobotics/SPARK-MAX-Documentation.git,0,git,docs
+NI-GameTools,ni-frc-2023-game-tools_23.1.0_offline.iso,https://download.ni.com/support/nipkg/products/ni-f/ni-frc-2023-game-tools/23.1/offline/ni-frc-2023-game-tools_23.1.0_offline.iso,96f0aea5c8c8ebdcf09d3418dd351467,unzipped-installer,
+WPILibInstaller_Windows64,WPILib_Windows-2023.4.3.iso,https://github.com/wpilibsuite/allwpilib/releases/download/v2023.4.3/WPILib_Windows-2023.4.3.iso,5b67d336669bed34ab0dd428f81b9d31,unzipped-installer,
+CTRE-Tuner-X-Offline,Tuner_X_v2023.2.2.0_for_Offline_Install.zip,https://store.ctr-electronics.com/content/csa-resources/Tuner_X_v2023.2.2.0_for_Offline_Install.zip,89004abf935a1436b0795e170da79999,zipped-installer,
+CTRE-Phoenix-v5-Docs,v5-docs-ctr-electronics-com-en-stable.pdf,https://v5.docs.ctr-electronics.com/_/downloads/en/stable/pdf/,0,unzipped,docs
+Radio-Config-Tool,FRC_Radio_Configuration_23_0_2.zip,https://firstfrc.blob.core.windows.net/frc2023/Radio/FRC_Radio_Configuration_23_0_2.zip,9807fa40a7e85493b4bae3335d426b57,zipped,
+2023-Manual,2023FRCGameManual.pdf,https://firstfrc.blob.core.windows.net/frc2023/Manual/2023FRCGameManual.pdf,0,unzipped,docs
+REV-Hardware-Client,REV-Hardware-Client-Setup-1.5.3-offline-FRC-2023-03-21.exe,https://github.com/REVrobotics/REV-Software-Binaries/releases/download/rhc-1.5.3/REV-Hardware-Client-Setup-1.5.3-offline-FRC-2023-03-21.exe,7f2552d9951d804da7535f04ea7862d1,unzipped-installer,
+FRC-Docs,docs-wpilib-org-en-stable.pdf,https://docs.wpilib.org/_/downloads/en/stable/pdf/,0,unzipped,docs
+Balena-Etcher,balenaEtcher-Setup-1.18.11.exe,https://github.com/balena-io/etcher/releases/download/v1.18.11/balenaEtcher-Setup-1.18.11.exe,d4f9704a5bdb8ce7d39bc62e06268735,unzipped-installer,
+DSLOG-Reader-2.2,DSLOG-Reader.2.2.exe,https://github.com/orangelight/DSLOG-Reader/releases/download/v2.2.0/DSLOG-Reader.2.2.exe,590743d2b6b29aa6d9a19c4166999201,unzipped,
+AdvantageScope,advantagescope-win-x64-v2.3.0.exe,https://github.com/Mechanical-Advantage/AdvantageScope/releases/download/v2.3.0/advantagescope-win-x64-v2.3.0.exe,205e343fb2417d2412623bcd0470c18d,unzipped,
+2023-ChargedUp,,https://github.com/Team997Coders/2023-ChargedUp.git,,git,git
+2023-outreach,,https://github.com/Team997Coders/2023-outreach.git,,git,git
+spartanLib2,,https://github.com/Team997Coders/spartanLib2.git,,git,git
+OffseasonSwerve2023,,https://github.com/Team997Coders/OffseasonSwerve2023.git,,git,git
